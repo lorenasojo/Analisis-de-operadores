@@ -96,6 +96,6 @@ Este análisis puede servir como punto de partida para implementar estrategias d
 ## 7. Evidencia del proyecto
 
 - **Dashboard interactivo:** [Visualizar en Tableau Public](https://public.tableau.com/app/profile/lorena.torres.sojo/viz/Proyecto_Final_Telecomunicaciones/Dashboard2?publish=yes)
-- **Notebook de análisis:** [Agregar enlace al notebook en GitHub]
+- **Presentación del proyecto:** 
 - **Repositorio de GitHub:** [Agregar enlace al repositorio]
 
