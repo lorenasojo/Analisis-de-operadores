@@ -96,6 +96,6 @@ Este análisis puede servir como punto de partida para implementar estrategias d
 ## 7. Evidencia del proyecto
 
 - **Dashboard interactivo:** [Visualizar en Tableau Public](https://public.tableau.com/app/profile/lorena.torres.sojo/viz/Proyecto_Final_Telecomunicaciones/Dashboard2?publish=yes)
-- **Presentación del proyecto:** 
+- **Presentación del proyecto:** https://github.com/lorenasojo/An-lisis-del-desempe-o-de-operadores-/blob/main/Presentacion%20del%20desempe%C3%B1o%20de%20operadores.pdf
 - **Repositorio de GitHub:** [Agregar enlace al repositorio]
 
